@@ -1,4 +1,4 @@
-This repository contains code and pretrained weights matrices to reproduce/examine the results of the paper entitled [Bolstering Adversarial Robustness with Latent Disparity Regularization](http://engr.arizona.edu/~dmschwar/papers/IJCNNPublishedVersion.pdf) ,  published in IJCNN 2021.
+This repository contains code to reproduce/examine the results of the paper entitled [Bolstering Adversarial Robustness with Latent Disparity Regularization](http://engr.arizona.edu/~dmschwar/papers/IJCNNPublishedVersion.pdf) ,  published in IJCNN 2021.
 
 To begin with a pre-trained model, adjust the parameters in fine\_tuning\_experiment.py to your preferences (similar parameterizations to the paper's are already entered) and run the same file. 
 
